@@ -1,0 +1,18 @@
+Here is my first session notes for the java class:
+Command Prompt:
+Directory=dev
+Computer Funndamentals:
+Computer=Hardware+Software
+Github:
+If you have a computer, it saves in the github cloud so if your
+current computer breaks, you can still use github on another
+computer with all the information
+Bring javaclass to computer. You make code and push it to cloud
+and then bring it back to the computer with another command
+Command to add to computer (make a copy): 
+git clone <url>
+
+Commands to add stuff to the cloud
+git add *
+git commit -m "new comments added"
+git push
