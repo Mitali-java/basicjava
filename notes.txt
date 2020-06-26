@@ -1,8 +1,11 @@
 Here is my first session notes for the java class:
 Command Prompt:
+used to run git commands
+cd= change directory
+md= make directory
 Directory=dev
 Computer Funndamentals:
-Computer=Hardware+Software
+Computer=Hardware (physical) +Software 
 Github:
 If you have a computer, it saves in the github cloud so if your
 current computer breaks, you can still use github on another
@@ -16,3 +19,6 @@ Commands to add stuff to the cloud
 git add *
 git commit -m "new comments added"
 git push
+
+To check the status:
+git status
