@@ -4,7 +4,7 @@ used to run git commands
 cd= change directory
 md= make directory
 Directory=dev
-Computer Funndamentals:
+Computer Fundamentals:
 Computer=Hardware (physical) +Software 
 Github:
 If you have a computer, it saves in the github cloud so if your
