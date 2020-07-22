@@ -11,9 +11,9 @@ public class Application {
 		int reminder;
 		reminder = number %2;
 		if(reminder == 0) {
-				System.out.println("Number is even.");
+			System.out.println("Number is even.");
 		}else {
 			System.out.println("Number is odd.");
+		}
 	}
-	}
-	}
+}
