@@ -1,15 +1,1 @@
-# basicjava
-Basic Java Programming
-Homework:
 
-Convert below decimals to binary:
-65 --> 1000001   
-256 --> 100000000
-
-Convert below binary to decimals:
-100010 --> 34   
-10000000 --> 128   
-1011 --> 11
-
-Write your first name as ASCII numbers:
-0100 1101, 0110 1001, 0111 0100, 0110 0001, 0110 1100, 0110 1001
