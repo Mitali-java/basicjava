@@ -1,19 +1,25 @@
+package Tower;
 
 public class Application {
+
 	public static void main(String[] args) {
-		System.out.println("Hello world");
+		Tower towerA;
+		towerA = new Tower();
+		towerA.name = "Tower-A";
+		towerA.draw();
 		
-		System.out.println("20+30=50");
-		System.out.println("20x30=600");
-		
-		int number = 15;
-		
-		int reminder;
-		reminder = number %2;
-		if(reminder == 0) {
-			System.out.println("Number is even.");
-		}else {
-			System.out.println("Number is odd.");
-		}
+		//Private= Hides the Details
+
+		Tower towerB;
+		towerB = new Tower();
+		towerB.name = "Tower-B";
+		towerB.draw();
+
+		Tower towerC;
+		towerC = new Tower();
+		towerC.name = "Tower-C";
+		towerC.draw();
+
 	}
+
 }
